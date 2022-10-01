@@ -1,9 +1,12 @@
 
-num1 = list(map(int, input().split()))
-num2 = list(map(int, input().split()))
+words = input('Enter the list: ').split()
+
+are = ['a', 'r', 'e']
+idxlst = []
 
 # ******************************
 # Make your Code
 # ******************************
 
-# print (num3) 
+# print the words that has 'a', 'r', 'e' in sequence
+
